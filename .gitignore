@@ -86,7 +86,6 @@ v
 .pytest_cache
 
 # VSCode
-.vscode
 .history
 
 .tmp
@@ -94,3 +93,5 @@ pip-wheel-metadata
 
 # Files generated if figure tests are run
 results
+config.bat
+node_modules
